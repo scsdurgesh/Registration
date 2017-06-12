@@ -1,0 +1,9 @@
+org\com\shoerella\model\Address.class
+org\com\shoerella\model\Order.class
+org\com\shoerella\model\Customer.class
+org\com\shoerella\model\DeliveryAddress.class
+org\com\shoerella\model\ProductDetails.class
+org\com\shoerella\repository\RegisterRepository.class
+org\com\shoerella\model\CartTable.class
+org\com\shoerella\model\ShipperInfo.class
+org\com\shoerella\model\Login.class
